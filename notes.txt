@@ -1,0 +1,3 @@
+ POST request is an HTTP request method used to send data to a server to create or update a resource. Unlike GET requests, which typically retrieve data and include parameters in the URL, POST requests send data in the body of the request. This allows for sending larger amounts of data and more complex data types, including sensitive information like passwords, as the data is not exposed in the URL
+
+ 
